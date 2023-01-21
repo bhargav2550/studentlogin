@@ -1,2 +1,2 @@
-## Title of the project
+# Title of the project
 Student Login Form
